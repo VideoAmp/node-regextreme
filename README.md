@@ -3,7 +3,7 @@
 Every RegExp you ever wanted but were afraid to ask for.
 
 ```bash
-npm install --save regextreme
+npm install --save regextreme # doesn't work yet, need to add to npm registry
 ```
 
 ```javascript
