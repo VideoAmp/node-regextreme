@@ -1,0 +1,7 @@
+{
+  "name": "regextreme",
+  "description": "Common regexes",
+  "version": "0.0.1",
+  "author": "Stan Dyro <stan@videoamp.com>",
+  "main": "index.js"
+}
